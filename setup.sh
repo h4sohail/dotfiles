@@ -6,4 +6,5 @@ if [ "$SPIN" ]; then
   alias stop=/usr/bin/stop
   alias attach=/usr/bin/attach
   EOF
+  source ~/.bash_aliases 
 fi
